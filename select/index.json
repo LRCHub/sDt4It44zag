@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トアルハルノヒ",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-13T06:22:04.637160Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トアルハルノヒ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_トアルハルノヒ_RADWIMPS.txt"
+    }
+  ]
+}
